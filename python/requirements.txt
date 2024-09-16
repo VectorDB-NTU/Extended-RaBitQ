@@ -1,0 +1,3 @@
+faiss==1.8.0
+numpy==1.26.4
+scikit_learn==1.5.1
