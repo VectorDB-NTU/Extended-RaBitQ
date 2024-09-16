@@ -30,3 +30,23 @@
 *.exe
 *.out
 *.app
+
+# build
+build/
+bin/
+
+# vscode
+.vscode/
+.clang-format
+
+# Eigen
+Eigen/
+
+# hnswlib
+hnswlib/
+
+# data
+data/*/
+
+# python
+*.pyc
