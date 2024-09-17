@@ -26,7 +26,7 @@ def write_ivecs(filename, m):
     print(f"\t{filename} wrote")
 
 
-def fvecs_write(filename, m):
+def write_fvecs(filename, m):
     m = m.astype("float32")
     write_ivecs(filename, m.view("int32"))
 
