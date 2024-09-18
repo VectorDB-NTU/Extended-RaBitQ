@@ -1,5 +1,7 @@
 # Extended RaBitQ
-Using Extended RaBitQ for approximate nearest neighbor search without storing raw data vectors
+Using Extended RaBitQ for approximate nearest neighbor search without storing raw data vectors in main memory
+
+The project provides more trade-offs between space consumptions and the accuracy of distance estimation (https://arxiv.org/pdf/2409.09913).
 
 ### Prepapring 
 
