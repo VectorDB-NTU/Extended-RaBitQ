@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 3.10)
 
-project(RaBitQG LANGUAGES CXX)
+project(ExRaBitQ LANGUAGES CXX)
 
 set(CXX_STANDARD 17)
 
@@ -10,10 +10,10 @@ include_directories(${PROJECT_SOURCE_DIR}/inc)
 include(CheckCXXSourceCompiles)
 set(AVX2_CXX_CODE "#include <immintrin.h>
 int main() {
-#if __AVX512__
+#if __AVX512F__
 return 0;
 #else
-#error \"AVX512 is not supported\"
+#error \"AVX512F is not supported\"
 #endif
 }")
 
