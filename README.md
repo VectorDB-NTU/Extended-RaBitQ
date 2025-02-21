@@ -1,8 +1,10 @@
 # Extended RaBitQ
 
 News: The paper has been accepted by SIGMOD 2025.
+
 [SIGMOD 2025] Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search
 
+---
 > Replace your scalar and binary quantization with RaBitQ seamlessly. Enjoy blazingly fast distance computation with dominant accuracy. 
 
 The project proposes a novel quantization algorithm developped from RaBitQ. The algorithm supports to compress high-dimensional vectors with arbitrary compression rates. Its computation is exactly the same as the classical scalar quantization and has dominant accuracy under same compression rates. It brings especially significant improvement in the setting from 2-bit to 6-bit, which helps an algorithm to achieve high recall without reranking.
