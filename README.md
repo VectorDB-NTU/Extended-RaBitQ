@@ -1,6 +1,6 @@
 # Extended RaBitQ
 
-News: The paper has been accepted by SIGMOD 2025.
+News: The paper (arXiv:2409.09913, September, 2024) has been accepted by SIGMOD 2025.
 
 [SIGMOD 2025] Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search
 
