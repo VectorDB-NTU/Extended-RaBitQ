@@ -1,5 +1,7 @@
 # Extended RaBitQ
 
+* **The repo has been archived. Please refer to the [RaBitQ-Library](https://github.com/VectorDB-NTU/RaBitQ-Library) for further development.**
+
 News: A library with more practical implementation techniques about RaBitQ is released at the [RaBitQ-Library](https://github.com/VectorDB-NTU/RaBitQ-Library).
 
 News: The paper (arXiv:2409.09913, September, 2024) has been accepted by SIGMOD 2025.
